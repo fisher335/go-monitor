@@ -1,0 +1,14 @@
+server:
+  port: 9500
+
+spring:
+  application:
+    name: go-monitor
+
+# 监控配置
+monitor:
+  # SSH 采集间隔（秒）
+  interval: 500
+  # 目标服务器
+  servers:
+
