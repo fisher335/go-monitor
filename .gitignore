@@ -28,6 +28,8 @@ Thumbs.db
 __pycache__/
 *.pyc
 *.pyo
+.venv/
+venv/
 
 # Go
 bin/
